@@ -3,9 +3,13 @@
 # Caeser Cipher
 Caeser Cipher using with different key values
 
-# AIM:
+
+
+## AIM:
 
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
+
+
 
 
 ## DESIGN STEPS:
@@ -28,6 +32,8 @@ Implementation using C or Python code
                        En(x) = (x + n) mod26
 5.	Decryption is performed similarly,
                        Dn (x)=(x - n) mod26
+
+
 
 
 ## PROGRAM:
@@ -72,8 +78,12 @@ int main() {
 }
 ```
 
+
+
 ## OUTPUT:
 ![output](./image.png)
+
+
 
 ## RESULT:
 The program is executed successfully
