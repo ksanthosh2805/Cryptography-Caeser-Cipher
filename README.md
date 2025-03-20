@@ -1,4 +1,4 @@
-## EX01
+## EX-NO-01
 ## DATE: 18-03-2025
 # Caeser Cipher
 Caeser Cipher using with different key values
